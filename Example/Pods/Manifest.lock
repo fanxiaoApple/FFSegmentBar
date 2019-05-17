@@ -1,0 +1,16 @@
+PODS:
+  - FFSegmentBar (0.1.0)
+
+DEPENDENCIES:
+  - FFSegmentBar (from `../`)
+
+EXTERNAL SOURCES:
+  FFSegmentBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFSegmentBar: a11f0a07a8ffc961fac08d01fd0b8c7270f6489e
+
+PODFILE CHECKSUM: 381289863a7d71752cd8376163c565a72b3e3a1a
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module FFSegmentBar {
+  umbrella header "FFSegmentBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

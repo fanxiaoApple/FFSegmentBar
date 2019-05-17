@@ -39,7 +39,7 @@
 /* Begin PBXFileReference section */
 		0AE9573EE0B97F2CC77F48B3 /* Pods-FFSegmentBar_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FFSegmentBar_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-FFSegmentBar_Example/Pods-FFSegmentBar_Example.release.xcconfig"; sourceTree = "<group>"; };
 		18E889315D06A8F3B8B21CD0 /* Pods_FFSegmentBar_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FFSegmentBar_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		1D1B3D45BA8AA52167184432 /* FFSegmentBar.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = FFSegmentBar.podspec; path = ../FFSegmentBar.podspec; sourceTree = "<group>"; };
+		1D1B3D45BA8AA52167184432 /* FFSegmentBar.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = FFSegmentBar.podspec; path = ../FFSegmentBar.podspec; sourceTree = "<group>"; };
 		1F2057DC31BE87C96B0A9987 /* Pods_FFSegmentBar_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FFSegmentBar_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		527A0C20B95FC57D56F512FC /* Pods-FFSegmentBar_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FFSegmentBar_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FFSegmentBar_Example/Pods-FFSegmentBar_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		5FC2B6747E142B7055D97750 /* Pods-FFSegmentBar_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FFSegmentBar_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FFSegmentBar_Tests/Pods-FFSegmentBar_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -64,9 +64,9 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		B5AED7C8E73B4906DB2C37F9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		B5AED7C8E73B4906DB2C37F9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E1ACE019C254D258D35A1469 /* Pods-FFSegmentBar_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FFSegmentBar_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-FFSegmentBar_Tests/Pods-FFSegmentBar_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		E2D01374925D49565326A052 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		E2D01374925D49565326A052 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
